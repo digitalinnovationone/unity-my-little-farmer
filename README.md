@@ -12,9 +12,8 @@ Vamos criar um jogo onde o jogador administra uma pequena fazenda, cultivando di
 
 - Instalar o [Unity Hub](https://unity3d.com/get-unity/download).
 - Instalar uma versão do Unity 2021 ou mais recente.
-- Instalar VSCode e configurar sua integração com o Unity
-    - [https://code.visualstudio.com/docs/other/unity](https://code.visualstudio.com/docs/other/unity)
-    - ***Pendente: Link da aula de integração***
+- Instalar VSCode e configurar sua integração com o Unity:
+    - [![Integração de IDE: VSCode](.media/vscode_integration_thumb.jpg)](https://academiapme-my.sharepoint.com/:v:/g/personal/leonardo_ropelato_dio_me/ERPO-grfuUlLgpcr0cYuQywB2xeQv3IK9aFcOxHm2BPl8g?e=UPdoKE "Integração de IDE: VSCode")
 - Clonar / baixar esse repositório no seu computador.
 - Abrir esse projeto no Unity.
 - Se divertir no processo! 😁
