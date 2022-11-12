@@ -2,6 +2,8 @@
 
 Vamos criar um jogo onde o jogador administra uma pequena fazenda, cultivando diversas plantações em seu solo para assim colher seus frutos e envia-los para a cidade. Partindo de uma base pré-criada, vamos usar objetos primitivos do Unity para construir essa aventura, além de desenvolver as mecânicas principais ao vivo.
 
+![Live Screenshot](.media/live.png "Live Screenshot")
+
 ## Atividades
 
 1. Vamos explorar uma cena preparada especialmente para a live.
